@@ -1,1 +1,1 @@
-gem 'green onion'
+gem 'green_onion'
